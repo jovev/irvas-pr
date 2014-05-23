@@ -9,7 +9,7 @@ Treba kreirati strukturu na sledeci nacin
 
 - [ ] Root
   - [ ] Blog
-  - [ ] Research ([docs](http://en.wikipedia.org/wiki/Wormhole#Time_travel))
+  - [x] Research ([docs](http://en.wikipedia.org/wiki/Wormhole#Time_travel))
   - [ ] Studije slucaja
   - [ ] Prezentacije
 - [ ] ...?
